@@ -285,6 +285,6 @@ const dataFilm = [
 ]
 
 const filmJSON = JSON.stringify(dataFilm);
-console.log(filmJSON);
+// console.log(filmJSON);
 localStorage.setItem('film',filmJSON);
-console.log(filmJSON);
+// console.log(filmJSON);
